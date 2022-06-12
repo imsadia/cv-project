@@ -7,7 +7,7 @@ cd cv-project
 python setup.py install
 ```
 
-You need to download mask_rcnn_coco.h5 file for using pre-trained coco weights. Further you need to download 
+You need to download and keep mask_rcnn_coco.h5 file inside root directory for using pre-trained coco weights. Further you need to download 
 [CoNSeP](https://drive.google.com/drive/folders/1LLlKd2tw__J4regVfiVWYGsjawZ_bGfP?usp=sharing) and 
 [CPM17](https://drive.google.com/drive/folders/1l55cv3DuY-f7-JotDN7N5nbNnjbLWchK) datasets and keep both datasets 
 inside dataset folder created in the root directory.
